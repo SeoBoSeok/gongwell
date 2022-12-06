@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'Influencer-Set';
+  src:
+    url('fonts/Influencer-Set.ttf?5xai5o') format('truetype'),
+    url('fonts/Influencer-Set.woff?5xai5o') format('woff'),
+    url('fonts/Influencer-Set.svg?5xai5o#Influencer-Set') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Influencer-Set' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-angle-right-solid:before {
+  content: "\e900";
+}
+.icon-angle-up-solid:before {
+  content: "\e901";
+}
+.icon-check-circle-solid:before {
+  content: "\e902";
+}
+.icon-exclamation-circle-solid:before {
+  content: "\e903";
+}
+.icon-exclamation-triangle-solid:before {
+  content: "\e904";
+}
+.icon-facebook-f-brands:before {
+  content: "\e905";
+}
+.icon-gamepad-solid:before {
+  content: "\e906";
+}
+.icon-instagram-brands:before {
+  content: "\e907";
+}
+.icon-microphone-solid:before {
+  content: "\e908";
+}
+.icon-patreon-brands:before {
+  content: "\e909";
+}
+.icon-pinterest-brands:before {
+  content: "\e90a";
+}
+.icon-play-solid:before {
+  content: "\e90b";
+}
+.icon-share-solid:before {
+  content: "\e90c";
+}
+.icon-spotify-brands:before {
+  content: "\e90d";
+}
+.icon-twitter-brands:before {
+  content: "\e90e";
+}
+.icon-youtube-brands:before {
+  content: "\e90f";
+}
+.icon-close-nav:before {
+  content: "\e910";
+}
+.icon-menu:before {
+  content: "\e911";
+}
+.icon-search:before {
+  content: "\e912";
+}
+.icon-my-account:before {
+  content: "\e913";
+}
+.icon-shopping-cart:before {
+  content: "\e914";
+}
